@@ -3,4 +3,6 @@ A project that use Spring Boot to create restful CRUD API
 
 WHAT I LEARNED
 
-Create CRUD Restful API using SPRING BOOT and MYSQL
+1. Create CRUD Restful API using SPRING BOOT and MYSQL
+2. Create a front end application using ANGULAR
+
